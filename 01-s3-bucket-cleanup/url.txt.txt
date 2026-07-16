@@ -1,1 +1,1 @@
-https://github.com/bkori17/aws-lamda-boto3-assignments/tree/01-s3-bucket-cleaning
+https://github.com/bkori17/aws-lamda-boto3-assignments/tree/9d97756e544df7fb292305ac23c1b9456dc17bbc/01-s3-bucket-cleanup
